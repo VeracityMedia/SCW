@@ -8,7 +8,7 @@
       "title": "Example featured Event",
       "description": "This is the name of the event.<br>Washington DC MORE TEXT CAN GO HERE<br><a class='mapshare' href='https://www.facebook.com/sharer/sharer.php?u=google.com'><i class='fa fa-facebook'></i></a><a class='mapshare' href='https://twitter.com/home?status=google.com'><i class='fa fa-twitter'></i></a>",
       "marker-color": "#ff0000",
-      "marker-size": "large'",
+      "marker-size": "large",
       "marker-symbol": "star"
 
     }
